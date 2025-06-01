@@ -20,8 +20,8 @@ nodes:
 # - draw.blur_bbox
 - custom_nodes.draw.line:
     roi : 0.5
-    axis_y : True
+    axis_y : False
 - custom_nodes.draw.drawCentroid
 - output.screen
 - output.media_writer:
-    output_dir: 'C:\Users\amir_\OneDrive - Singapore Polytechnic\VSC\PROGRAMMING\PYTHON\Python\SPAI_HumanCounter\human_counter\media'
+    output_dir: "C:\\Users\\Amir Rahman\\OneDrive\\PROJECTS\\CODES\\PCG\\Human-Entrance-Counter\\human_counter\\media"
